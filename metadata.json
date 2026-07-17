@@ -1,0 +1,10 @@
+{
+  "name": "WAREHOUSE TKS v1",
+  "description": "Warehouse Management System untuk inventaris kosmetik multi-brand. Kelola stok, inbound, return, order, dan transfer stok dengan mudah.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
